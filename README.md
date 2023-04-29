@@ -7,8 +7,8 @@ This is a blog webpage project made with Svelte, TypeScript, and PNPM. It allows
 To install the project, follow these steps:
 
 1. Make sure you have Node.js and PNPM installed on your system.
-2. Clone this repository: `git clone https://github.com/yourusername/blog-webpage.git`
-3. Navigate to the project directory: `cd blog-webpage`
+2. Clone this repository: `git clone https://github.com/rajashish147/blog.git`
+3. Navigate to the project directory: `cd blog`
 4. Install dependencies: `pnpm install`
 5. Build the project: `pnpm build`
 
@@ -16,7 +16,7 @@ To install the project, follow these steps:
 
 To run the project, follow these steps:
 
-1. Navigate to the project directory: `cd blog-webpage`
+1. Navigate to the project directory: `cd blog`
 2. Start the development server: `pnpm dev`
 3. Open your browser and go to `http://localhost:5000`
 
