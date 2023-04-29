@@ -51,4 +51,4 @@ If you want to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the GNU Public License. See the `LICENSE` file for details.
